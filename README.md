@@ -11,4 +11,4 @@
 
 ### Demo
 
-[Live Preview]()
+[Live Preview](https://brave-visvesvaraya-4e96d8.netlify.app/)
